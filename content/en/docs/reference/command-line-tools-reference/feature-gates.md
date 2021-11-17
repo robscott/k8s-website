@@ -192,6 +192,7 @@ different Kubernetes components.
 | `TTLAfterFinished` | `false` | Alpha | 1.12 | 1.20 |
 | `TTLAfterFinished` | `true` | Beta | 1.21 | |
 | `TopologyAwareHints` | `false` | Alpha | 1.21 | |
+| `TopologyAwareHints` | `true` | Beta | 1.23 | |
 | `TopologyManager` | `false` | Alpha | 1.16 | 1.17 |
 | `TopologyManager` | `true` | Beta | 1.18 | |
 | `VolumeCapacityPriority` | `false` | Alpha | 1.21 | - |
